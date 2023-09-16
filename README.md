@@ -70,3 +70,18 @@
 ---
 
 ## DBeaver connect to Cassandra Cluster
+
+#### in DBeaver : go to -> Menu -> Database -> New Database Connection ->
+#### select "Apache Cassandra" -> click "Next >" ->
+
+![DBeaver_06.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_06.jpg)
+
+#### fill in the details :
+```
+JDBC URL format : jdbc:cassandra://[Host]:[Port]/[keyspace]?localdatacenter=[DC_Name]
+
+Authentication : Username & Password
+```
+#### click "Test Connection ..."
+
+![DBeaver_07.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_07.jpg)
