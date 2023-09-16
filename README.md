@@ -48,3 +48,19 @@
 #### in DBeaver : go to -> Menu -> Database -> Driver Manager -> New ->
 
 ![DBeaver_02.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_02.jpg)
+
+#### go to -> Libraries Tab -> Add File -> select "cassandra-jdbc-wrapper-<version>-bundle.jar"
+
+![DBeaver_03.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_03.jpg)
+
+#### go to -> Settings Tab -> configure following :
+```
+  Driver Name : Apache Cassandra
+  Driver Type : Generic
+  Class Name  : com.ing.data.cassandra.jdbc.CassandraDriver
+```
+#### click OK and close the "Create new driver" dialog.
+
+![DBeaver_04.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_04.jpg)
+
+---
