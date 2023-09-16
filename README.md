@@ -42,3 +42,9 @@
 ##### I stored this JAR file in ` C:\Software\DBeaver2320\customDrivers\ `
 
 ---
+
+## DBeaver + JDBC driver
+
+#### in DBeaver : go to -> Menu -> Database -> Driver Manager -> New ->
+
+![DBeaver_02.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_02.jpg)
