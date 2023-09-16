@@ -85,3 +85,32 @@ Authentication : Username & Password
 #### click "Test Connection ..."
 
 ![DBeaver_07.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_07.jpg)
+
+#### click Finish to close the "Connect to a database" dialog.
+
+---
+
+## Rename Database Connection
+
+#### right click on database connection "Apache Cassandra" under "Database Navigator" to rename ...
+
+---
+
+# Enjoy the ` DBeaver Community Edition ` for ` Apache Cassandra `
+
+![DBeaver_08.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_08.jpg)
+
+---
+
+### Latest Verification
+
+```
+# 16-September-2023
+# this is working properly with following software versions :
+
+DBeaver Community version 23.2.0
+cassandra-jdbc-wrapper-4.9.1-bundle.jar
+Apache Cassandra version 5.0-alpha1
+
+```
+
