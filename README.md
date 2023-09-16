@@ -63,4 +63,10 @@
 
 ![DBeaver_04.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_04.jpg)
 
+#### click Close to close the "Driver Manager" dialog.
+
+![DBeaver_05.jpg](https://github.com/sarma1807/DBeaver_for_Cassandra/blob/main/images/DBeaver_05.jpg)
+
 ---
+
+## DBeaver connect to Cassandra Cluster
