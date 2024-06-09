@@ -105,12 +105,12 @@ Authentication : Username & Password
 ### Latest Verification
 
 ```
-# 16-September-2023
+# 09-June-2024
 # this is working properly with following software versions :
 
-DBeaver Community version 23.2.0
-cassandra-jdbc-wrapper-4.9.1-bundle.jar
-Apache Cassandra version 5.0-alpha1
+DBeaver Community version 24.0.4
+cassandra-jdbc-wrapper-4.12.0-bundle.jar
+Apache Cassandra version 5.0-beta1
 
 ```
 
